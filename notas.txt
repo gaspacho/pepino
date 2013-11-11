@@ -1,0 +1,3 @@
+slackware 14.1
+virtual box
+
