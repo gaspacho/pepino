@@ -1,8 +1,7 @@
 pepino
 ======
 
-Servidor Icecast con posibilidad orientado a la retransmision hacia otros servicios de stream.
-El objetivo es la instalacion en sistemas embebidos, pendrives booteables y computadoras de bajo rendimiento.
+El objetivo es la implementacion de una infraestructura sencilla capaz de instalarse en sistemas embebidos, pendrives booteables y computadoras de bajo rendimiento.
 
 **Features**
 
@@ -11,3 +10,10 @@ El objetivo es la instalacion en sistemas embebidos, pendrives booteables y comp
 - Modo Relay.
 
 
+**Software**
+
+- Archlinux
+- ALSA
+- Icecast
+- DarkIce
+- Nginx
